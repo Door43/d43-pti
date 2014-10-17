@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pti:home|Door43 (pti)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pti|d43-pti repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pti/archive/master.zip|d43-pti.zip]]
+
+**Recent Changes**
+{{changes>ns = pti}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pti|Ethnologue data]]
+
